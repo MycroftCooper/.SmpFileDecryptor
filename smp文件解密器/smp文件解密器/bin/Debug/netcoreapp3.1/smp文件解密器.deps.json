@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "smp文件解密器/1.0.0": {
+        "runtime": {
+          "smp文件解密器.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "smp文件解密器/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
